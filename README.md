@@ -126,3 +126,9 @@ Files
 - previewimage.png: Workshop preview image.
 
 GitHub: https://github.com/HONGxuanzhao/TESMIOAGRI
+
+## Source and build / 源码与编译
+
+Original C++ source was recovered from local development records. See [SOURCE_RECOVERY.md](SOURCE_RECOVERY.md) for provenance and verification.
+
+源码从本机开发记录恢复；恢复依据与验证结果见 [SOURCE_RECOVERY.md](SOURCE_RECOVERY.md)。在 Visual Studio 的 x64 Native Tools Command Prompt 中运行 `build.cmd`，输出位于 `build/`，发布 DLL 位于 `plugins/`。

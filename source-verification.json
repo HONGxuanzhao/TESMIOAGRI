@@ -1,0 +1,15 @@
+{
+  "mod": "TESMIOAGRI",
+  "build_passed": true,
+  "machine_code_identical": true,
+  "binary_identical_except_timestamps": true,
+  "timestamp_offsets": [
+    "0x108",
+    "0x24654"
+  ],
+  "original_sha256": "c17396cf08c4c9d75014f5d2a36c4a78ee5350ef16e4749aa34c03c2b06f2395",
+  "rebuilt_sha256": "8c784fbbf4f54633ec012ec023b51beabf9002f4f771b1447289ca89a09c6100",
+  "normalized_sha256": "52567bef0d0434de8c16770401e06bc9a483bcda8a17d2c83d609642d6571761",
+  "native_regression": "passed",
+  "live_game_test": "not run"
+}
