@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "tesmio.tesmioagri",
+  "name": "TESMIOAGRI",
+  "version": "0.1.0",
+  "description": "Crop maturity and harvest yield controls. TESMIO API 4; packaged for TESMIO and RML.",
+  "dll": "TESMIOAGRI.dll",
+  "loaderApi": {
+    "min": 1,
+    "max": 1
+  },
+  "supportedGameVersions": [
+    "1.1.1.9"
+  ],
+  "requiredSymbols": [],
+  "optionalSymbols": [],
+  "dependencies": [],
+  "conflicts": [],
+  "loadBefore": [],
+  "loadAfter": [],
+  "defaultPriority": 900,
+  "enabledByDefault": true
+}
